@@ -9,10 +9,10 @@ function MyApp({ Component, pageProps }) {
     <>
     <Head>
       <title>customer management</title>
-      <meta>
+      <meta
       name="description"
       content="customer management application"
-      </meta>
+      />
     </Head>
     <Layout>
       <Component {...pageProps} />
